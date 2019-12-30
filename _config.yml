@@ -152,7 +152,7 @@ reward:
   enable: true
   title: 你的赏识是我前进的动力
   wechat: /images/wxpay.png
-  alipay: /images/alipay.jpg
+  alipay: /images/alipay.png
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
